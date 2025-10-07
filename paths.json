@@ -1,10 +1,8 @@
 {
   "mappings": [
-    "/content/jck/:/",
-    "/content/jck/configuration:/.helix/config.json",
-    "/content/jck/metadata:/metadata.json"
+    "/content/franklin-components/:/"
   ],
   "includes": [
-    "/content/jck/"
+    "/content/franklin-components/"
   ]
 }
